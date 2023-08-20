@@ -18,7 +18,7 @@ tr {
   border-bottom: 1px solid #dddd;
 }
 .flag {
-  background: url("flags.png");
+  background: url("blob:https://codesandbox.io/b51248f0-4654-4e05-868a-bac0725889bd");
   display: block;
   width: 12px;
   height: 1px;
